@@ -1,0 +1,92 @@
+- company: Keen AI
+  logo: keen-ai.jpeg
+  jobTitle: Technical Lead
+  dateFrom: 2021
+  dateTo: present
+  toolset: Python, PyTorch, Javascript, MySQL/PostgreSQL, Docker, GCP
+  description: >
+    At Keen AI we build custom computer vision solutions, typically in the energy transmission and distribution space. 
+    We identify objects, defects and data patterns and build meaningful platforms around this data. 
+    I provide technical oversight on all projects, guiding our team of devs on the architecture of each product, 
+    all the way from design to production release.
+
+- company: The Big Wild
+  logo: big-wild.jpeg
+  jobTitle: Machine Learning Developer (Volunteer)
+  dateFrom: Jul 2021
+  dateTo: Feb 2022
+  toolset: C++, Python
+  description: >
+    I helped The Big Wild prototype an object detector and landmark detector for polar bears which is part of a bigger 
+    pipeline that will eventually be able to distinguish individual polar bears using face detection. 
+    The aim is to tackle the difficulties faced in polar bear tracking by providing a less invasive and less resource 
+    consuming alternative.
+
+- company: New Zealand Department of Conservation
+  logo: nz-doc.jpeg
+  jobTitle: Software Developer (Volunteer)
+  dateFrom: Dec 2020
+  dateTo: Mar 2021
+  toolset: Python, Tensorflow, ElectronJS, Svelte
+  description: >
+    Developed Megadetector GUI, an open source, AI-assisted solution for 
+    labeling and sorting camera trap images. The desktop application is an integral part of the data processing pipeline for 
+    conservation scientists working to save endangered species.
+
+- company: Makely
+  logo: makely.jpeg
+  jobTitle: Founder
+  dateFrom: Aug 2019
+  dateTo: Dec 2020
+  toolset: Python, React, PostgreSQL, Docker, AWS
+  description: >
+    Makely is (was) a 3D printing platform that connects everyday people to 3D printing enthusiasts and hobbyists, 
+    allowing them to print their ideas with virtually zero knowledge of the tech. 
+    After not gaining much traction and re-evaluating my strategy, I decided to shut down the project.
+
+- company: Splash Damage
+  logo: splash-damage.jpeg
+  jobTitle: Backend Engineer
+  dateFrom: Aug 2017
+  dateTo: Aug 2019
+  toolset: Python, Golang, C#, PostgreSQL, Docker, Kubernetes, AWS
+  description: >
+    Developed the backend for the PC game Dirty Bomb and an another unannounced project. 
+    The live-service nature of the games required the backend(s) to be flexible, with 
+    low overhead on new features and reliable scaling. Improved the player sentiment analysis 
+    using a Naive Bayes classifier. Prototyped an analytics pipeline to handle high-throughput 
+    events for all of the company's titles.
+
+- company: Præsto Consulting
+  logo: praesto.jpeg
+  jobTitle: Technical Consultant
+  dateFrom: Feb 2016
+  dateTo: May 2017
+  toolset: Python, Javascript, SQL
+  description: >
+    Configured BI pipelines and developed custom data visualisations for large businesses such as 
+    Schneider Electric, Britvic and Madison Square Garden. Worked with a variety of large 
+    datasets, conceptually ranging from financial evaluations to athlete performance data.
+
+- company: Echogroup
+  logo: echogroup.jpeg
+  jobTitle: Junior Software Developer
+  dateFrom: Aug 2014
+  dateTo: Sep 2014
+  toolset: Python, Excel
+  description: >
+    Developed a bespoke spreadsheet management software package from the ground up to handle the company’s 
+    customer information and automate the task of mailing batch and individual journals. Includes standard 
+    features such as refined searching and amending data, as well as unique and personalised sorting and 
+    comparison algorithms, encapsulated in a sleek and easy to use GUI.
+
+- company: Royal Holloway, University of London
+  logo: rhul.jpeg
+  jobTitle: BSc Theoretical Physics, 1st Class Honours
+  dateFrom: 2012
+  dateTo: 2015
+  toolset: Python, C++
+  description: >
+    For my major project I simulated a Josephson Bifurcation Amplifier with a side exploration into the 
+    Nyquist–Shannon Sampling Theorem. 
+    Simulation written in C++ and data visualisation with Python.

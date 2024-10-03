@@ -1,0 +1,33 @@
+---
+layout: post
+---
+
+{{ content }} {% for w in site.data.work %}
+<div style="margin-bottom: 30px">
+  <div
+    style="display: flex; justify-content: space-between; margin-bottom: 10px"
+  >
+    <div style="flex: 2; display: flex; align-items: center">
+      <img
+        src="../assets/logos/{{w.logo}}"
+        alt="Left Image"
+        style="width: auto; height: 30px; margin-bottom: 0; margin-right: 10px"
+      />
+      <h3 style="flex: 1; margin: 0">{{ w.company }}</h3>
+    </div>
+    <p style="flex: 1; font-style: italic; text-align: right; margin: 0">
+      {{w.dateFrom}} - {{ w.dateTo }}
+    </p>
+  </div>
+
+  <div
+    style="display: flex; justify-content: space-between; margin-bottom: 10px"
+  >
+    <h4 style="flex: 1; margin: 0">{{ w.jobTitle }}</h4>
+    <small style="flex: 1; font-style: italic; text-align: right; margin: 0"
+      >{{w.toolset}}</small
+    >
+  </div>
+  {{ w.description }}
+</div>
+{% endfor %}
